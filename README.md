@@ -1,1 +1,1 @@
-# Find-The-Wrong-Picture
+# java 언어로 구현한 틀린 그림 찾기 프로그램
